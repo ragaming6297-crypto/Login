@@ -1,0 +1,34 @@
+{
+  "dialog_enable": true,
+  "online_enable": true,
+
+  "title": "Premium Login",
+  "descriptions": [
+    "Welcome To Suresh Configs.",
+    "Enter your password to continue.",
+    "Make sure your device is registered."
+  ],
+
+  "button_login": "Login",
+  "button_admin": "Admin",
+  "button_copy": "Copy ID",
+  "admin_url": "https://telegram.me/Sureshffconfig",
+
+  "device_section": [
+    {
+      "device_id": "1234",
+      "password": "1122",
+      "expire_date": "2025-12-31"
+    },
+    {
+      "device_id": "9767",
+      "password": "3344",
+      "expire_date": "2026-01-15"
+    },
+    {
+      "device_id": "offline-device",
+      "password": "1234",
+      "expire_date": "2026-01-01"
+    }
+  ]
+}
